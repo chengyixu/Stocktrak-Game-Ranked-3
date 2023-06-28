@@ -1,0 +1,58 @@
+Symbol,TransactionType,CompanyName,Exchange,Quantity,FXRate,Currency,SecurityType,Price,Amount,CreateDate
+T2310O18,Market - Cover,"AT&T, Inc.",US,1,1,USD,Options,$0.00 ,$0.00 ,03/10/2023 - 18:15
+T2310O18,Market - Short,"AT&T, Inc.",US,-1,1,USD,Options,$0.01 ,$1.00 ,03/06/2023 - 15:14
+T2310C19.5,Market - Sell,"AT&T, Inc.",US,-1,1,USD,Options,$0.01 ,$1.00 ,03/06/2023 - 15:11
+T2310C19.5,Limit - Buy,"AT&T, Inc.",US,1,1,USD,Options,$0.02 ,($2.00),03/06/2023 - 15:08
+EUR/GBP,Market - Sell,Euro/GBP,FX,-100000,0.83,GBP,Spots,£0.8874,-£122.7700,03/06/2023 - 11:23
+EUR/USD,Market - Sell,EUR/USD,FX,-100000,1,USD,Spots,$1.07 ,$99.00 ,03/06/2023 - 11:23
+PRK/J3,Market - Sell,Pork Cutout Futures APR 23,US,-1,1,USD,Futures,$90.43 ,($60.00),03/06/2023 - 11:23
+RQ/H3,Market - Sell,10-Year USD Deliverable Interest Rate Swap MAR 23,US,-1,1,USD,Futures,$100.13 ,($187.50),03/06/2023 - 11:23
+RH/H3,Market - Sell,5-Year USD Deliverable Interest Rate Swap MAR 23,US,-1,1,USD,Futures,$98.52 ,($78.20),03/06/2023 - 11:22
+G2/H3,Market - Sell,E-mini  Russell 2000 Index Futures MAR 23,US,-1,1,USD,Futures,"$1,921.00 ",($170.00),03/06/2023 - 11:22
+HE/K3,Market - Sell,LNHOGS MAY 13,US,-1,1,USD,Futures,$92.78 ,($40.00),03/06/2023 - 11:22
+OT/H3,Market - Sell,AUDLK MAR 13,US,-1,1,USD,Futures,$0.67 ,($50.00),03/06/2023 - 11:22
+P./H3,Market - Sell,AUDLKL MAR 13,US,-1,1,USD,Futures,$1.20 ,$125.00 ,03/06/2023 - 11:22
+TSLA2310C275,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.01 ,$1.00 ,03/06/2023 - 11:21
+TSLA2317C233.33,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.59 ,$59.00 ,03/06/2023 - 11:21
+TSLA2310O150,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.02 ,$2.00 ,03/06/2023 - 11:21
+TSLA2324O160,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$1.10 ,$110.00 ,03/06/2023 - 11:21
+SPY2309C420,Market - Sell,SSgA Active Trust - S&P 500 ETF TRUST ETF,US,-1,1,USD,Options,$0.12 ,$12.00 ,03/06/2023 - 11:21
+TSLA2310C262.5,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.01 ,$1.00 ,03/06/2023 - 11:21
+TSLA2310O120,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.01 ,$1.00 ,03/06/2023 - 11:21
+TSLA2310C220,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.43 ,$43.00 ,03/06/2023 - 11:21
+TSLA2310C230,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.13 ,$13.00 ,03/06/2023 - 11:20
+TSLA2317C225,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$1.15 ,$115.00 ,03/06/2023 - 11:20
+TSLA2317C210,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$3.60 ,$360.00 ,03/06/2023 - 11:20
+TSLA2310C262.5,Market - Buy,Tesla Inc,US,1,1,USD,Options,$0.02 ,($2.00),03/06/2023 - 10:50
+TSLA2310C230,Market - Buy,Tesla Inc,US,1,1,USD,Options,$0.17 ,($17.00),03/06/2023 - 10:49
+TSLA2310C220,Market - Buy,Tesla Inc,US,1,1,USD,Options,$0.46 ,($46.00),03/06/2023 - 10:42
+TSLA2310C275,Market - Buy,Tesla Inc,US,1,1,USD,Options,$0.02 ,($2.00),03/06/2023 - 10:39
+TSLA2317C233.33,Market - Buy,Tesla Inc,US,1,1,USD,Options,$0.62 ,($62.00),03/06/2023 - 10:38
+TSLA2310O150,Market - Buy,Tesla Inc,US,1,1,USD,Options,$0.04 ,($4.00),03/06/2023 - 10:32
+TSLA2310O120,Market - Buy,Tesla Inc,US,1,1,USD,Options,$0.01 ,($1.00),03/06/2023 - 10:30
+TSLA2317C210,Market - Buy,Tesla Inc,US,1,1,USD,Options,$3.55 ,($355.00),03/06/2023 - 10:29
+TSLA2317C225,Market - Buy,Tesla Inc,US,1,1,USD,Options,$1.19 ,($119.00),03/06/2023 - 10:27
+TSLA2324O160,Market - Buy,Tesla Inc,US,1,1,USD,Options,$1.08 ,($108.00),03/06/2023 - 10:26
+SPY2309C420,Market - Buy,SSgA Active Trust - S&P 500 ETF TRUST ETF,US,1,1,USD,Options,$0.11 ,($11.00),03/06/2023 - 10:25
+TSLA,Market - Buy,Tesla Inc,US,100,1,USD,Equities,$210.00 ,"($21,000.00)",03/06/2023 - 10:21
+TSLA2310C210,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.00 ,$0.00 ,03/06/2023 - 10:21
+TSLA2310C210,Market - Buy,Tesla Inc,US,1,1,USD,Options,$1.52 ,($152.00),03/06/2023 - 10:19
+TSLA2310C290,Market - Sell,Tesla Inc,US,-1,1,USD,Options,$0.01 ,$1.00 ,03/06/2023 - 10:17
+TSLA2310C290,Market - Buy,Tesla Inc,US,1,1,USD,Options,$0.02 ,($2.00),03/06/2023 - 10:16
+P./H3,Market - Buy,AUDLKL MAR 13,US,1,1,USD,Futures,$1.20 ,$0.00 ,03/06/2023 - 10:00
+OT/H3,Market - Buy,AUDLK MAR 13,US,1,1,USD,Futures,$0.67 ,$0.00 ,03/06/2023 - 10:00
+G2/H3,Market - Buy,E-mini  Russell 2000 Index Futures MAR 23,US,1,1,USD,Futures,"$1,924.40 ",$0.00 ,03/06/2023 - 09:59
+RH/H3,Market - Buy,5-Year USD Deliverable Interest Rate Swap MAR 23,US,1,1,USD,Futures,$98.60 ,$0.00 ,03/06/2023 - 09:58
+RQ/H3,Market - Buy,10-Year USD Deliverable Interest Rate Swap MAR 23,US,1,1,USD,Futures,$100.31 ,$0.00 ,03/06/2023 - 09:58
+HE/K3,Market - Buy,LNHOGS MAY 13,US,1,1,USD,Futures,$92.88 ,$0.00 ,03/06/2023 - 09:57
+PRK/J3,Market - Buy,Pork Cutout Futures APR 23,US,1,1,USD,Futures,$90.58 ,$0.00 ,03/06/2023 - 09:57
+EUR/GBP,Market - Buy,Euro/GBP,FX,100000,0.83,GBP,Spots,£0.8885,£0.0000,03/06/2023 - 09:56
+EUR/USD,Market - Buy,EUR/USD,FX,100000,1,USD,Spots,$1.07 ,$0.00 ,03/06/2023 - 09:56
+GC/H3,Market - Sell,GOLD MAR 13,US,-73,1,USD,Futures,"$1,849.40 ","$283,240.00 ",03/06/2023 - 08:49
+PA/H3,Market - Sell,PALLA MAR 13,US,-115,1,USD,Futures,"$1,390.50 ","($80,500.00)",03/06/2023 - 08:49
+ES/H3,Market - Sell,SP-MIN MAR 13,US,-30,1,USD,Futures,"$4,062.00 ","$117,375.00 ",03/06/2023 - 08:49
+HG/H3,Market - Sell,COPPER MAR 13,US,-70,1,USD,Futures,$4.06 ,"$214,375.00 ",03/06/2023 - 08:48
+ES/H3,Market - Buy,SP-MIN MAR 13,US,30,1,USD,Futures,"$3,983.75 ",$0.00 ,02/27/2023 - 02:58
+PA/H3,Market - Buy,PALLA MAR 13,US,115,1,USD,Futures,"$1,397.50 ",$0.00 ,02/27/2023 - 02:47
+HG/H3,Market - Buy,COPPER MAR 13,US,70,1,USD,Futures,$3.94 ,$0.00 ,02/27/2023 - 02:46
+GC/H3,Market - Buy,GOLD MAR 13,US,73,1,USD,Futures,"$1,810.60 ",$0.00 ,02/27/2023 - 02:46

@@ -1,0 +1,9 @@
+Symbol,TransactionType,CompanyName,Exchange,Quantity,FXRate,Currency,SecurityType,Price,Amount,CreateDate
+GC/H3,Market - Sell,GOLD MAR 13,US,-73,1,USD,Futures,"$1,849.40 ","$283,240.00 ",03/06/2023 - 08:49
+PA/H3,Market - Sell,PALLA MAR 13,US,-115,1,USD,Futures,"$1,390.50 ","($80,500.00)",03/06/2023 - 08:49
+ES/H3,Market - Sell,SP-MIN MAR 13,US,-30,1,USD,Futures,"$4,062.00 ","$117,375.00 ",03/06/2023 - 08:49
+HG/H3,Market - Sell,COPPER MAR 13,US,-70,1,USD,Futures,$4.06 ,"$214,375.00 ",03/06/2023 - 08:48
+ES/H3,Market - Buy,SP-MIN MAR 13,US,30,1,USD,Futures,"$3,983.75 ",$0.00 ,02/27/2023 - 02:58
+PA/H3,Market - Buy,PALLA MAR 13,US,115,1,USD,Futures,"$1,397.50 ",$0.00 ,02/27/2023 - 02:47
+HG/H3,Market - Buy,COPPER MAR 13,US,70,1,USD,Futures,$3.94 ,$0.00 ,02/27/2023 - 02:46
+GC/H3,Market - Buy,GOLD MAR 13,US,73,1,USD,Futures,"$1,810.60 ",$0.00 ,02/27/2023 - 02:46
